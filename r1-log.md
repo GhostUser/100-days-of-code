@@ -4,7 +4,7 @@ The log of my #100DaysOfCode challenge. Started on [Sept 03, Thursday, 2020].
 
 ## Log
 
-### R1D1 
+### Round 1
 
 ### Day 0: September 03, 2020 
 ##### (delete me or comment me out)
